@@ -1,1 +1,1 @@
-# Sandstorm-Removal-UNet
+# Sandstorm Image Restoration 
